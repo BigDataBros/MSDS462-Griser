@@ -1,22 +1,16 @@
 Orange peel fungus
-Red Cracking Bolete
 Porcino
 Red Bog Bolete
 S. serotinus
-Gyromitra esculenta
-Helvella crispa
 Jelly Ear
-Helvella crispa
 Shaggy Scalycap
 Dryad's Saddle
 Scarlet Elf Cup
 Common Earthball
-Verpa bohemica
 Unknown basidiomycete
 Beefsteak fungus
 Bird's Nest fungus
 Black Morel
-Blewits
 Blushing Mushroom
 Chanterelle
 Club Fungus
@@ -26,7 +20,6 @@ Dead Man's Fingers
 Death Cap
 Deer Mushroom
 Destroying Angel
-Dog Stinkhorn
 Earthball
 Earthstar
 Elf Cup
@@ -34,7 +27,6 @@ Fairy-Ring Mushroom
 False Death Cap
 False Morel
 Fly Agaric
-Gasteroid Fungi
 Giant Puffball
 Gyromitra
 Helvella
@@ -42,31 +34,25 @@ Hen-of-the-Woods
 Honey Mushroom
 Horse Mushroom
 Inky Cap
-Jack-O-Lantern fungus
 Jelly Fungus
 Lepiota
 Meadow Mushroom
 Milk Cap
 Morel
 Unknown
-Nameko
-Old-Man-of-the-Woods
 Oyster Mushroom
 Parasol Mushroom
 Puffball
 Caesar's Mushroom
-Sac Fungus
 Sandy Mushroom
 Shaggy Mane
 Shiitake
-Snow Mushroom
 Stalked Puffball
 Unknown Stinkhorn
 Straw Mushroom
 Inedible Toadstool
 Tooth Fungus
 Truffle
-Waxycap
 White Fungus
 Winter Mushroom
 Witches' Butter
