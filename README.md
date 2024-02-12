@@ -1,4 +1,4 @@
-An Android application to identify mushrooms/fungi from the phone/device's camera
+An Android application to identify mushrooms/fungi from a phone/device's camera
 June 2022
 
 The model was trained off of the existing model EfficientNet Lite #0 (https://tfhub.dev/tensorflow/efficientnet/lite0/classification/2.)
